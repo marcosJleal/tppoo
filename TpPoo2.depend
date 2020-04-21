@@ -1,0 +1,342 @@
+# depslib dependency file v1.0
+1571878374 source:c:\users\marcos\desktop\ejercicios lab\tppoo2\main.cpp
+	<iostream>
+	"dto/clsMateriaDTO.h"
+
+1571878508 c:\users\marcos\desktop\ejercicios lab\tppoo2\dto\clsmateriadto.h
+	<cstring>
+
+1571878517 source:c:\users\marcos\desktop\ejercicios lab\tppoo2\dao\clsmateriadao.cpp
+	"clsMateriaDAO.h"
+
+1571878374 c:\users\marcos\desktop\ejercicios lab\tppoo2\dao\clsmateriadao.h
+	<cstdio>
+	"../DTO/clsMateriaDTO.h"
+
+1571878602 source:c:\users\lau\desktop\tppoo2\dto\clsmateriadto.cpp
+	"clsMateriaDTO.h"
+
+1571878510 c:\users\lau\desktop\tppoo2\dto\clsmateriadto.h
+	<cstring>
+
+1571954142 source:c:\users\lau\desktop\tppoo2\main.cpp
+	<iostream>
+	"View/clsMainView.h"
+
+1571961976 source:c:\users\lau\desktop\tppoo2\dao\clsmateriadao.cpp
+	"clsMateriaDAO.h"
+
+1571889822 c:\users\lau\desktop\tppoo2\dao\clsmateriadao.h
+	<cstdio>
+	"../DTO/clsMateriaDTO.h"
+
+1571962113 source:c:\users\lau\desktop\tppoo2\bl\clsmateriabl.cpp
+	"clsMateriaBL.h"
+
+1571962113 c:\users\lau\desktop\tppoo2\bl\clsmateriabl.h
+	"../DAO/clsMateriaDAO.h"
+	"../DTO/clsMateriaDTO.h"
+
+1571954532 c:\users\lau\desktop\tppoo2\view\clsmainview.h
+	<iostream>
+	<stdlib.h>
+	"clsMateriaView.h"
+
+1571956738 c:\users\lau\desktop\tppoo2\view\clsmateriaview.h
+	<iostream>
+	<stdlib.h>
+	<iomanip>
+	"../DTO/clsMateriaDTO.h"
+	"../DAO/clsMateriaDAO.h"
+	"../BL/clsMateriaBL.h"
+
+1571956088 source:c:\users\lau\desktop\tppoo2\view\clsmainview.cpp
+	"clsMainView.h"
+
+1571962112 source:c:\users\lau\desktop\tppoo2\view\clsmateriaview.cpp
+	"clsMateriaView.h"
+
+1573653035 source:c:\users\marcos\documents\tsp\2c\laboratorio ii\tppoo2\bl\clsmateriabl.cpp
+	"clsMateriaBL.h"
+
+1573652123 c:\users\marcos\documents\tsp\2c\laboratorio ii\tppoo2\bl\clsmateriabl.h
+	"../DAO/clsMateriaDAO.h"
+	"../DTO/clsMateriaDTO.h"
+
+1573660896 c:\users\marcos\documents\tsp\2c\laboratorio ii\tppoo2\dao\clsmateriadao.h
+	<cstdio>
+	"../DTO/clsMateriaDTO.h"
+	"../Helpers/clsCadenaHelper.h"
+
+1571878510 c:\users\marcos\documents\tsp\2c\laboratorio ii\tppoo2\dto\clsmateriadto.h
+	<cstring>
+
+1573660896 source:c:\users\marcos\documents\tsp\2c\laboratorio ii\tppoo2\dao\clsmateriadao.cpp
+	"clsMateriaDAO.h"
+
+1572136094 source:c:\users\marcos\documents\tsp\2c\laboratorio ii\tppoo2\dto\clsmateriadto.cpp
+	"clsMateriaDTO.h"
+
+1571954144 source:c:\users\marcos\documents\tsp\2c\laboratorio ii\tppoo2\main.cpp
+	<iostream>
+	"View/clsMainView.h"
+
+1572452718 c:\users\marcos\documents\tsp\2c\laboratorio ii\tppoo2\view\clsmainview.h
+	<iostream>
+	<stdlib.h>
+	"clsMateriaView.h"
+	"clsAlumnoView.h"
+
+1573658413 c:\users\marcos\documents\tsp\2c\laboratorio ii\tppoo2\view\clsmateriaview.h
+	<iostream>
+	<stdlib.h>
+	<iomanip>
+	"../DTO/clsMateriaDTO.h"
+	"../DAO/clsMateriaDAO.h"
+	"../BL/clsMateriaBL.h"
+	"../Helpers/clsCadenaHelper.h"
+	"../Helpers/clsValidacion.h"
+	"clsMateriaXAlumnoView.h"
+
+1572452718 source:c:\users\marcos\documents\tsp\2c\laboratorio ii\tppoo2\view\clsmainview.cpp
+	"clsMainView.h"
+
+1573658413 source:c:\users\marcos\documents\tsp\2c\laboratorio ii\tppoo2\view\clsmateriaview.cpp
+	"clsMateriaView.h"
+
+1572145121 source:c:\users\marcos\documents\tsp\2c\laboratorio ii\tppoo2\dto\clsalumnodto.cpp
+	"clsAlumnoDTO.h"
+
+1572144990 c:\users\marcos\documents\tsp\2c\laboratorio ii\tppoo2\dto\clsalumnodto.h
+	<cstring>
+
+1573660896 source:c:\users\marcos\documents\tsp\2c\laboratorio ii\tppoo2\dao\clsalumnodao.cpp
+	"clsAlumnoDAO.h"
+
+1573660896 c:\users\marcos\documents\tsp\2c\laboratorio ii\tppoo2\dao\clsalumnodao.h
+	<cstdio>
+	"../DTO/clsAlumnoDTO.h"
+	"../Helpers/clsCadenaHelper.h"
+
+1573655403 source:c:\users\marcos\documents\tsp\2c\laboratorio ii\tppoo2\bl\clsalumnobl.cpp
+	"clsAlumnoBL.h"
+
+1573655380 c:\users\marcos\documents\tsp\2c\laboratorio ii\tppoo2\bl\clsalumnobl.h
+	"../DAO/clsAlumnoDAO.h"
+	"../DTO/clsAlumnoDTO.h"
+
+1573658413 c:\users\marcos\documents\tsp\2c\laboratorio ii\tppoo2\view\clsalumnoview.h
+	<iostream>
+	<stdlib.h>
+	<iomanip>
+	"../DTO/clsAlumnoDTO.h"
+	"../DAO/clsAlumnoDAO.h"
+	"../BL/clsAlumnoBL.h"
+	"../View/clsMateriaXAlumnoView.h"
+	"../Helpers/clsCadenaHelper.h"
+	"../Helpers/clsValidacion.h"
+
+1573659094 source:c:\users\marcos\documents\tsp\2c\laboratorio ii\tppoo2\view\clsalumnoview.cpp
+	"clsAlumnoView.h"
+	<cstring>
+
+1572562758 source:c:\users\marcos\documents\tsp\2c\laboratorio ii\tppoo2\dto\clsmateriaxalumnodto.cpp
+	"clsMateriaXAlumnoDTO.h"
+
+1572562709 c:\users\marcos\documents\tsp\2c\laboratorio ii\tppoo2\dto\clsmateriaxalumnodto.h
+
+1573660896 source:c:\users\marcos\documents\tsp\2c\laboratorio ii\tppoo2\dao\clsmateriaxalumnodao.cpp
+	"clsMateriaXAlumnoDAO.h"
+
+1573660896 c:\users\marcos\documents\tsp\2c\laboratorio ii\tppoo2\dao\clsmateriaxalumnodao.h
+	<cstdio>
+	"../DTO/clsMateriaXAlumnoDTO.h"
+
+1573605697 source:c:\users\marcos\documents\tsp\2c\laboratorio ii\tppoo2\bl\clsmateriaxalumnobl.cpp
+	"clsMateriaXAlumnoBL.h"
+
+1573605697 c:\users\marcos\documents\tsp\2c\laboratorio ii\tppoo2\bl\clsmateriaxalumnobl.h
+	"../DAO/clsMateriaXAlumnoDAO.h"
+	"../DTO/clsMateriaXAlumnoDTO.h"
+
+1573658413 c:\users\marcos\documents\tsp\2c\laboratorio ii\tppoo2\view\clsmateriaxalumnoview.h
+	<iostream>
+	<stdlib.h>
+	<iomanip>
+	"../DTO/clsMateriaXAlumnoDTO.h"
+	"../DTO/clsAlumnoDTO.h"
+	"../DAO/clsMateriaXAlumnoDAO.h"
+	"../BL/clsMateriaXAlumnoBL.h"
+	"../BL/clsMateriaBL.h"
+	"../BL/clsAlumnoBL.h"
+	"../DTO/clsAlumnoDTO.h"
+	"../Helpers/clsValidacion.h"
+
+1573659741 source:c:\users\marcos\documents\tsp\2c\laboratorio ii\tppoo2\view\clsmateriaxalumnoview.cpp
+	"clsMateriaXAlumnoView.h"
+
+1573653931 source:c:\users\marcos\documents\tsp\2c\laboratorio ii\tppoo2\helpers\clscadenahelper.cpp
+	"clsCadenaHelper.h"
+	<iostream>
+
+1573649454 c:\users\marcos\documents\tsp\2c\laboratorio ii\tppoo2\helpers\clscadenahelper.h
+	<cstring>
+	<cstdio>
+
+1573660752 c:\users\marcos\documents\tsp\2c\laboratorio ii\tppoo2\helpers\clsvalidacion.h
+	<iostream>
+	<cstring>
+	<cstdio>
+	<stdlib.h>
+	"../DTO/clsMateriaDTO.h"
+	"../DTO/clsAlumnoDTO.h"
+	"../DTO/clsMateriaXAlumnoDTO.h"
+	"../DAO/clsMateriaDAO.h"
+	"../DAO/clsAlumnoDAO.h"
+	"../DAO/clsMateriaXAlumnoDAO.h"
+
+1573660896 source:c:\users\marcos\documents\tsp\2c\laboratorio ii\tppoo2\helpers\clsvalidacion.cpp
+	"clsValidacion.h"
+
+1573655404 source:c:\users\marcos\desktop\tppoo2\bl\clsalumnobl.cpp
+	"clsAlumnoBL.h"
+
+1573655382 c:\users\marcos\desktop\tppoo2\bl\clsalumnobl.h
+	"../DAO/clsAlumnoDAO.h"
+	"../DTO/clsAlumnoDTO.h"
+
+1573660898 c:\users\marcos\desktop\tppoo2\dao\clsalumnodao.h
+	<cstdio>
+	"../DTO/clsAlumnoDTO.h"
+	"../Helpers/clsCadenaHelper.h"
+
+1572144992 c:\users\marcos\desktop\tppoo2\dto\clsalumnodto.h
+	<cstring>
+
+1573649456 c:\users\marcos\desktop\tppoo2\helpers\clscadenahelper.h
+	<cstring>
+	<cstdio>
+
+1573653036 source:c:\users\marcos\desktop\tppoo2\bl\clsmateriabl.cpp
+	"clsMateriaBL.h"
+
+1573652124 c:\users\marcos\desktop\tppoo2\bl\clsmateriabl.h
+	"../DAO/clsMateriaDAO.h"
+	"../DTO/clsMateriaDTO.h"
+
+1573660898 c:\users\marcos\desktop\tppoo2\dao\clsmateriadao.h
+	<cstdio>
+	"../DTO/clsMateriaDTO.h"
+	"../Helpers/clsCadenaHelper.h"
+
+1571878510 c:\users\marcos\desktop\tppoo2\dto\clsmateriadto.h
+	<cstring>
+
+1573605698 source:c:\users\marcos\desktop\tppoo2\bl\clsmateriaxalumnobl.cpp
+	"clsMateriaXAlumnoBL.h"
+
+1573605698 c:\users\marcos\desktop\tppoo2\bl\clsmateriaxalumnobl.h
+	"../DAO/clsMateriaXAlumnoDAO.h"
+	"../DTO/clsMateriaXAlumnoDTO.h"
+
+1573660898 c:\users\marcos\desktop\tppoo2\dao\clsmateriaxalumnodao.h
+	<cstdio>
+	"../DTO/clsMateriaXAlumnoDTO.h"
+
+1572562710 c:\users\marcos\desktop\tppoo2\dto\clsmateriaxalumnodto.h
+
+1573660898 source:c:\users\marcos\desktop\tppoo2\dao\clsalumnodao.cpp
+	"clsAlumnoDAO.h"
+
+1573660898 source:c:\users\marcos\desktop\tppoo2\dao\clsmateriadao.cpp
+	"clsMateriaDAO.h"
+
+1573660898 source:c:\users\marcos\desktop\tppoo2\dao\clsmateriaxalumnodao.cpp
+	"clsMateriaXAlumnoDAO.h"
+
+1572145122 source:c:\users\marcos\desktop\tppoo2\dto\clsalumnodto.cpp
+	"clsAlumnoDTO.h"
+
+1572136096 source:c:\users\marcos\desktop\tppoo2\dto\clsmateriadto.cpp
+	"clsMateriaDTO.h"
+
+1572562760 source:c:\users\marcos\desktop\tppoo2\dto\clsmateriaxalumnodto.cpp
+	"clsMateriaXAlumnoDTO.h"
+
+1573653932 source:c:\users\marcos\desktop\tppoo2\helpers\clscadenahelper.cpp
+	"clsCadenaHelper.h"
+	<iostream>
+
+1573660898 source:c:\users\marcos\desktop\tppoo2\helpers\clsvalidacion.cpp
+	"clsValidacion.h"
+
+1573660754 c:\users\marcos\desktop\tppoo2\helpers\clsvalidacion.h
+	<iostream>
+	<cstring>
+	<cstdio>
+	<stdlib.h>
+	"../DTO/clsMateriaDTO.h"
+	"../DTO/clsAlumnoDTO.h"
+	"../DTO/clsMateriaXAlumnoDTO.h"
+	"../DAO/clsMateriaDAO.h"
+	"../DAO/clsAlumnoDAO.h"
+	"../DAO/clsMateriaXAlumnoDAO.h"
+
+1571954144 source:c:\users\marcos\desktop\tppoo2\main.cpp
+	<iostream>
+	"View/clsMainView.h"
+
+1572452720 c:\users\marcos\desktop\tppoo2\view\clsmainview.h
+	<iostream>
+	<stdlib.h>
+	"clsMateriaView.h"
+	"clsAlumnoView.h"
+
+1573658414 c:\users\marcos\desktop\tppoo2\view\clsmateriaview.h
+	<iostream>
+	<stdlib.h>
+	<iomanip>
+	"../DTO/clsMateriaDTO.h"
+	"../DAO/clsMateriaDAO.h"
+	"../BL/clsMateriaBL.h"
+	"../Helpers/clsCadenaHelper.h"
+	"../Helpers/clsValidacion.h"
+	"clsMateriaXAlumnoView.h"
+
+1573658414 c:\users\marcos\desktop\tppoo2\view\clsmateriaxalumnoview.h
+	<iostream>
+	<stdlib.h>
+	<iomanip>
+	"../DTO/clsMateriaXAlumnoDTO.h"
+	"../DTO/clsAlumnoDTO.h"
+	"../DAO/clsMateriaXAlumnoDAO.h"
+	"../BL/clsMateriaXAlumnoBL.h"
+	"../BL/clsMateriaBL.h"
+	"../BL/clsAlumnoBL.h"
+	"../DTO/clsAlumnoDTO.h"
+	"../Helpers/clsValidacion.h"
+
+1573658414 c:\users\marcos\desktop\tppoo2\view\clsalumnoview.h
+	<iostream>
+	<stdlib.h>
+	<iomanip>
+	"../DTO/clsAlumnoDTO.h"
+	"../DAO/clsAlumnoDAO.h"
+	"../BL/clsAlumnoBL.h"
+	"../View/clsMateriaXAlumnoView.h"
+	"../Helpers/clsCadenaHelper.h"
+	"../Helpers/clsValidacion.h"
+
+1573659096 source:c:\users\marcos\desktop\tppoo2\view\clsalumnoview.cpp
+	"clsAlumnoView.h"
+	<cstring>
+
+1572452720 source:c:\users\marcos\desktop\tppoo2\view\clsmainview.cpp
+	"clsMainView.h"
+
+1573660956 source:c:\users\marcos\desktop\tppoo2\view\clsmateriaview.cpp
+	"clsMateriaView.h"
+
+1573659742 source:c:\users\marcos\desktop\tppoo2\view\clsmateriaxalumnoview.cpp
+	"clsMateriaXAlumnoView.h"
+
